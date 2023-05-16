@@ -5,7 +5,6 @@ import 'model.dart';
 
 class HomePage extends StatefulWidget {
 
-
   @override
   State<HomePage> createState() => _HomePageState();
 }
