@@ -1,5 +1,8 @@
+<!--Here You find Your Package name-->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.hitapi01">
+<!--Give permission for Internet-->
+   <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="hitapi01"
         android:name="${applicationName}"
